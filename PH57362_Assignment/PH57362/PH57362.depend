@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1717761193 source:e:\ph57362_hathihuyennhung _assignment_ltcb\ph57362\main.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
